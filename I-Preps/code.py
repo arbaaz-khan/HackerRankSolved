@@ -17,4 +17,4 @@ def maxUnqiueStones(input1,input2,input3):
 input1 = int(input())
 input2 = int(input())
 input3 = input()
-maxUnqiueStones(input1,input2,input3)
+maxUnqiueStones(input1, input2, input3)
